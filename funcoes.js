@@ -17,4 +17,4 @@ console.log(soma()); // console.log + função
 
 imprimeTexto(soma()); // vai subistituir o valor dentro da função "imprimeTexto" pelo valor da função "soma"
 
-//console.log(Math.random(0,10));   
+console.log(Math.random(0,10));   
